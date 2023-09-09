@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayvardhan12
-- 👀 I’m interested in cricket
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me just dm me
 
